@@ -1,5 +1,7 @@
 # ES6 web starter
 
+[![Build Status](https://travis-ci.org/jiji262/es6-web-starter.png?branch=master)](https://travis-ci.org/jiji262/es6-web-starter)
+
 A demo of JavaScript library made with ES6 and webpack.
 
 ## Features
