@@ -14,6 +14,8 @@ A demo of JavaScript library made with ES6 and webpack.
 
 This is just a small demo, which implement a tiny JavaScript library, which can convert an ip address to an integer.
 
+![]("./es6start.gif")
+
 You can build this library like this:
 ```shell
 npm run build
