@@ -1,7 +1,7 @@
 # ES6 web starter
 
-[![Build Status][travis-svg]][travis-url]
-[![dependency status][deps-svg]][deps-url]
+[![Build Status][https://travis-ci.org/jiji262/es6-web-starter.svg]][https://travis-ci.org/jiji262/es6-web-starter]
+[![dependency status][https://david-dm.org/jiji262/es6-web-starter.svg]][https://david-dm.org/jiji262/es6-web-starter]
 
 A demo of JavaScript library made with ES6 and webpack.
 
